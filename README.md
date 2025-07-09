@@ -72,18 +72,18 @@ redbus-clone/
 4. Click on the Train Ticket tab or open train.html to view the train ticket booking UI.
 
 📅 Future Scope
-Add JavaScript to enable dynamic ticket search
 
-Integrate API for real-time train/bus data
-
-Create user authentication flow (Login/Signup)
-
-Add payment integration (for educational purposes)
+1.Add JavaScript to enable dynamic ticket search
+2.Integrate API for real-time train/bus data
+3.Create user authentication flow (Login/Signup)
+4.Add payment integration (for educational purposes)
 
 🙌 Acknowledgements
+
 Inspired by the UI/UX of RedBus.in
 
 📃 License
+
 This project is licensed under the MIT License. Feel free to fork, clone, and modify for educational purposes.
 
 
